@@ -53,7 +53,7 @@ export const PropertyMatchmaker = () => {
     try {
       const model = "gemini-3-flash-preview";
       const systemInstruction = `
-        You are a luxury real estate expert and concierge for LuxeEstate.
+        You are a luxury real estate expert and concierge for Brainiac Tech.
         Your goal is to help users find their perfect property from our available listings.
         
         Available Properties:
@@ -237,7 +237,7 @@ export const PropertyMatchmaker = () => {
                   </button>
                 </div>
                 <p className="text-[10px] text-center mt-3 text-white/20 font-medium">
-                  Powered by LuxeEstate AI • Personalized for you
+                  Powered by Brainiac Tech AI • Personalized for you
                 </p>
               </div>
             </div>

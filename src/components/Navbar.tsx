@@ -62,7 +62,7 @@ export const Navbar = () => {
               "text-xl font-bold tracking-tight",
               isScrolled || isMobileMenuOpen ? "text-black" : "text-white"
             )}>
-              LuxeEstate
+            Brainiac Tech
             </span>
           </Link>
 

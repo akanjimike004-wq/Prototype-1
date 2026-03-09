@@ -27,7 +27,7 @@ export const Footer = () => {
                 <Home className="text-white w-6 h-6" />
               </div>
               <span className="text-xl font-bold tracking-tight text-black">
-                LuxeEstate
+                Brainiac Tech
               </span>
             </Link>
             <p className="text-sm text-black/60 leading-relaxed max-w-xs">
@@ -119,7 +119,7 @@ export const Footer = () => {
 
         <div className="pt-8 border-t border-black/5 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-xs text-black/40">
-            © 2026 LuxeEstate Premium Real Estate. All rights reserved.
+            © 2026 Brainiac Tech Premium Real Estate. All rights reserved.
           </p>
           <div className="flex items-center gap-8">
             <a href="#" className="text-xs text-black/40 hover:text-black transition-colors">Privacy Policy</a>

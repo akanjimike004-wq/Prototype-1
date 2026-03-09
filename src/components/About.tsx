@@ -32,7 +32,7 @@ export const About = () => {
               <span className="italic font-serif font-light text-white/60">The Art of Living</span>
             </h1>
             <p className="text-lg md:text-xl text-white/60 max-w-2xl mx-auto font-light leading-relaxed">
-              Since our inception, LuxeEstate has been the benchmark for luxury real estate, 
+              Since our inception, Brainiac Tech has been the benchmark for luxury real estate, 
               connecting the world's most discerning individuals with extraordinary properties.
             </p>
           </motion.div>
@@ -54,7 +54,7 @@ export const About = () => {
               </h2>
               <div className="space-y-6 text-black/60 leading-relaxed">
                 <p>
-                  At LuxeEstate, we believe that a home is more than just a structure; it's a sanctuary, 
+                  At Brainiac Tech, we believe that a home is more than just a structure; it's a sanctuary, 
                   a reflection of one's journey, and a canvas for future memories. Our mission is to 
                   provide an unparalleled experience that transcends the traditional transaction.
                 </p>
